@@ -30,7 +30,7 @@ body {
   gap: 2.5rem;
 }
 
-/* Left text */
+
 .faq-header h2 {
   font-size: 2.4rem;
   margin-bottom: 1rem;
@@ -85,7 +85,7 @@ body {
   transform: rotate(180deg);
 }
 
-/* Desktop */
+
 @media (min-width: 768px) {
   .faq-container {
     grid-template-columns: 1fr 1fr;
